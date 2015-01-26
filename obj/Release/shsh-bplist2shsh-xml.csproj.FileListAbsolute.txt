@@ -1,0 +1,5 @@
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\bin\Release\shsh-bplist2shsh-xml.exe.config
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\bin\Release\shsh-bplist2shsh-xml.exe
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\bin\Release\shsh-bplist2shsh-xml.pdb
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\obj\Release\shsh-bplist2shsh-xml.exe
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\obj\Release\shsh-bplist2shsh-xml.pdb

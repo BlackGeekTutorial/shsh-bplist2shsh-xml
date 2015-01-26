@@ -1,0 +1,6 @@
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\bin\Debug\shsh-bplist2shsh-xml.exe.config
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\bin\Debug\shsh-bplist2shsh-xml.exe
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\bin\Debug\shsh-bplist2shsh-xml.pdb
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.csprojResolveAssemblyReference.cache
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.exe
+c:\users\andrea\documents\visual studio 2013\Projects\shsh-bplist2shsh-xml\obj\Debug\shsh-bplist2shsh-xml.pdb
